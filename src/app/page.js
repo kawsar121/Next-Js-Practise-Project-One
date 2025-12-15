@@ -6,6 +6,7 @@ export default function Home() {
     <div>
       <h1 className="text-5xl text-center mt-12 text-black dark:text-red-500">First Next Js</h1>
       <Counter></Counter>
+      
     </div>
   );
 }
